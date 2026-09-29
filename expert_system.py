@@ -1,4 +1,3 @@
-
 # Facts known about the student
 facts = ["HighAttendance", "GoodMarks", "CompletedProjects", "HasInternship"]
 
